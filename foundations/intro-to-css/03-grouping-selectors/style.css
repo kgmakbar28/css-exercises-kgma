@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.Felemen,
+.Selemen {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman" , sans-serif;
+}
+
+.Felemen {
+  background-color: black;
+  color: white;
+}
+.Selemen {
+  background-color: yellow;
+}
